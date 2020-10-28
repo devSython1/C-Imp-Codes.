@@ -1,4 +1,4 @@
-//----------------------------- Sum of DIGITS -------------------------------------//
+//----------------------------- SUM OF DIGITS -------------------------------------//
 
 #include<stdio.h>
 
@@ -9,7 +9,7 @@ int main()
     scanf("%d",&user_input);
     while(user_input)
     {
-        digit=user_input%10;
+        digit=user_input%10;		//seperating each digit by taking mod
         user_input=user_input/10;
         printf("+ %d ",digit);
         sum=sum+digit;
