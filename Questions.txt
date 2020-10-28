@@ -1,0 +1,19 @@
+write a program to check wheather the number is strong number or not, also display all the strong numbers between 0 to the given number.
+write a program to to check wheather the number is palimdrome or not.
+find the prime factors of given number.
+find wheather the number is even or odd number.
+check wheather the number is +ve,-ve or zero.
+find maximum of two numbers.
+find maximum of three numbers.
+display number of days in given years.
+write a program to accept a character and check wheather the char is alpha, num,symbol or operator.
+write program to obtain table of given num.
+calculate sum of given numbers.
+reverse the given num.
+reverse the given string.
+check num is armstrong or not.
+find factorial of given num.
+find greatest common diviser of num.
+display first five prime factors of given num.
+pattern printing program.
+
