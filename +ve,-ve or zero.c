@@ -5,7 +5,7 @@
 int main()
 {
 	int user_input;
-	printf("Enter any Number:");
+	printf("Enter any Integer Number:");
 	scanf("%d",&user_input);
 	
 	if(user_input>0)
