@@ -1,5 +1,7 @@
 //----------------------------- FACTORIAL -------------------------------------//
 
+// Factorial using recursion
+
 #include<stdio.h>
 
 unsigned long factorial(int temp)  
@@ -30,6 +32,5 @@ int main()
 	{
 		printf("\nFactorial of %d is %lu", user_input, result);  
 	}
-	
 	return 0;  
 }  
