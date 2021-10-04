@@ -10,11 +10,11 @@ int main()
 	
 	if(user_input%2 == 0)
 	{
-		printf("\nThe Entered Number is Even Number");
+		printf("\nThe Entered Number is Even Number.");
 	}
 	else
 	{
-		printf("\nThe Entered Number is Odd Number");
+		printf("\nThe Entered Number is Odd Number.");
 	}
 	
 	printf("\n\nEven Numbers Between '0' to '%d' are:",user_input);
@@ -38,7 +38,6 @@ int main()
 			printf("%d\t",odd);
 		}
 	}
-	
 	return 0;
 }
 
