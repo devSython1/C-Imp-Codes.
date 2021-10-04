@@ -4,20 +4,11 @@
 
 int main()
 {
-	int input_1, input_2, gcd, lcm, remainder, numerator, denominator;
+	int gcd, remainder, numerator, denominator;
  
-    printf("Enter two numbers\n");
-    scanf("%d %d", &input_1, &input_2);
-    if (input_1 > input_2)
-    {
-        numerator = input_1;
-        denominator = input_2;
-    }
-    else
-    {
-        numerator = input_2;
-        denominator = input_1;
-    }
+    printf("Enter the numerator and denominator respectively numbers\n");
+    scanf("%d %d", &numerator, &denominator);
+    
     remainder = numerator % denominator;
     while (remainder != 0)
     {
